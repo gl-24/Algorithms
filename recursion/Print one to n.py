@@ -1,3 +1,6 @@
+'''
+IBH : Induction Base Hypothesis Method
+'''
 def print_one_to_n(n):
     if n == 1: 
         print(1) 
